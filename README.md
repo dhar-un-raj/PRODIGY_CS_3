@@ -22,7 +22,7 @@ This repository contains a Python tool to assess the strength of a password base
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/password-strength-assessment.git
+   git clone https://github.com/dhar-un-raj/password-strength-assessment.git
    cd password-strength-assessment
 
 ## Usage
